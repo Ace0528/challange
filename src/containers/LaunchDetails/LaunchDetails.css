@@ -1,0 +1,28 @@
+.page-layout {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+.detail-container {
+  width: 600px;
+  margin-left: 20px;
+  text-align: left;
+  margin-top: 45px;
+}
+.btn-back {
+  margin-top: 15px;
+}
+.spiner {
+  text-align: center;
+}
+.comment-area {
+  width: 400px;
+  padding-right: 50px;
+  margin-top: 60px;
+}
+.comment {
+  margin: 0 auto;
+  width: 200px;
+  margin-bottom: 10px;
+}
